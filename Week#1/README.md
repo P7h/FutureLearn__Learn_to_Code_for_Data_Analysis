@@ -1,7 +1,18 @@
 # Week 1: Having a go at it
+---
+
+
+## Jupyter Exercises Notebook
+[http://www.open.edu/openlearnworks/mod/resource/view.php?id=77731](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77731)
+
+
+## Jupyter Project Notebook
+[http://www.open.edu/openlearnworks/mod/resource/view.php?id=77733](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77733)
+
 
 ## Data
 This week's data file is [WHO POP TB some.xls](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77732).
+
 
 ## Sections
 

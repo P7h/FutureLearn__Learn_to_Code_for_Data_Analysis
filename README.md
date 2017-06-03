@@ -1,13 +1,14 @@
 # FutureLearn "Learn to Code for Data Analysis"
+---
 
-My Jupyter Notebooks and other notes of FutureLearn MOOC "Learn to Code for Data Analysis".
+Jupyter Notebooks and other notes of FutureLearn MOOC "Learn to Code for Data Analysis".
 
 
 ## Introduction
-My Jupyter Notebooks and other notes of FutureLearn MOOC for [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) by Michel Wermelinger, Rob Griffiths & Tony Hirst in association with The Open University (OU).<br>
-I took this course when it ran the first time between 08th May, 2017 till 11th July, 2017 [duration of 4 weeks].<br>
+Jupyter Notebooks and other notes of FutureLearn MOOC for [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) by Michel Wermelinger, Rob Griffiths & Tony Hirst in association with The Open University (OU).<br>
+This course is of 4 weeks duration. I took this course when it ran the first time starting on 08th May, 2017.<br>
 
-There were quizzes on every important topic, and also decent number of hands-on exercises in this course.
+There were quizzes on every important topic, and also a decent number of hands-on exercises and one project in each week in this course.
 
 
 ## Topics
@@ -17,7 +18,7 @@ There were quizzes on every important topic, and also decent number of hands-on 
 
 
 ## Notes
-- [x]  1. [Week 1: "Having a go at it"](tree/master/Week%231)
+- [x]  1. Week 1: "Having a go at it"
 - [ ]  2. Week 2: "Cleaning up our act"
 - [ ]  3. Week 3: "Combine and Transform Data"
 - [ ]  4. Week 4: "Further Techniques"
