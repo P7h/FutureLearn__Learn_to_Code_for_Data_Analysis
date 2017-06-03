@@ -17,7 +17,7 @@ There were quizzes on every important topic, and also decent number of hands-on 
 
 
 ## Notes
-- [x]  1. [Week 1: "Having a go at it"](Week1)
+- [x]  1. [Week 1: "Having a go at it"](tree/master/Week%231)
 - [ ]  2. Week 2: "Cleaning up our act"
 - [ ]  3. Week 3: "Combine and Transform Data"
 - [ ]  4. Week 4: "Further Techniques"
