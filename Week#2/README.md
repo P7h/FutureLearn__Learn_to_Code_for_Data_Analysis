@@ -11,7 +11,7 @@
 
 
 ## Data
-This week's initial data file is [`WHO POP TB all.csv`](WHO POP TB all.csv). Or is available [here](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77753).
+This week's initial data file is [`WHO POP TB all.csv`]("WHO POP TB all.csv"). Or is available [here](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77753).
 
 Most of the analysis and exercises are done with another data file: [`London_2014.csv`](London_2014.csv). Or is available [here](http://www.open.edu/openlearnworks/mod/resource/view.php?id=81241).
 
@@ -54,6 +54,7 @@ Find out how to use pandas to produce graphs.
 * `isnull()` is a series method that checks which rows in that series have a missing value.
 * `fillna(value)` is a series method that returns a new series in which all missing values have been filled with the given value.
 * `plot()` when applied to a dataframe column of numeric values, the method displays a graph of those values. The x-axis shows the dataframe’s index and the y-axis the range of the column’s values. Before the method is called you first need to execute `%matplotlib inline`.
+* Add a semicolon (`;`) at the end of the `plot` matplotlib statement to remove noise of execution of the statements.
 * `read_csv(csvFile)` creates a dataframe from the dataset in the CSV file.
 * `rename(columns={oldName : newName})` renames the column `oldName` to `newName`.
 * `str.rstrip(suffix)` when applied to a dataframe column of string values, the method removes the argument `suffix` from the end of each string value in the column.
