@@ -20,7 +20,7 @@ There are quizzes on every important topic, and also a decent number of hands-on
 ## Notes
 - [x]  1. Week 1: "Having a go at it"
 - [x]  2. Week 2: "Cleaning up our act"
-- [ ]  3. Week 3: "Combine and Transform Data"
+- [x]  3. Week 3: "Combine and Transform Data"
 - [ ]  4. Week 4: "Further Techniques"
 
 
