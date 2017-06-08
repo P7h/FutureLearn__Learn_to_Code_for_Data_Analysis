@@ -9,6 +9,8 @@
 ### Jupyter Project Notebook
 [http://www.open.edu/openlearnworks/mod/resource/view.php?id=77738](http://www.open.edu/openlearnworks/mod/resource/view.php?id=77738)
 
+### Side project
+Also tried a small project for understanding Gross Domestic Product [GDP] per capita based on Purchasing-Power-Parity [PPP]. [GDP_PPP_Project.ipynb](GDP_PPP_Project.ipynb) is the Jupyter Notebook for this project.
 
 ## Data
 * [`WHO GDP 2013.csv`]("WB GDP 2013.csv"). Or is available [here](http://www.open.edu/openlearnworks/mod/resource/view.php?id=81227).
