@@ -1,0 +1,10 @@
+*.class
+*.log
+.idea/
+.idea/workspace.xml
+target/
+project/project/
+project/target/
+.classpath
+.settings
+.ipynb_checkpoints/
