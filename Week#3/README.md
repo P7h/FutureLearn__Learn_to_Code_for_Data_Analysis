@@ -80,3 +80,9 @@ def functionName (argumentName1, argumentName2, ...):
 * `frame.reset_index()` returns a new dataframe in which rows are labelled from 0 onwards.
 * `spearmanr()` is a function in the scipy.stats module that takes two columns and returns a pair of numbers: the *Spearman rank correlation coefficient* of the two series of values, and its p-value.
 
+### Notes on `merge`, `join`, `concat` and `append`
+* [https://pandas.pydata.org/pandas-docs/stable/merging.html](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+* Main differences between `df.join()` and `df.merge()`:
+	* Lookup on right table: `df1.join(df2)` always joins via the index of `df2`, but `df1.merge(df2)` can join to one or more columns of `df2` (default) or to the index of `df2` (with `right_index=True`).
+	* lookup on left table: by default, `df1.join(df2)` uses the index of `df1` and `df1.merge(df2)` uses column(s) of `df1`. That can be overridden by specifying `df1.join(df2, on=key_or_keys)` or `df1.merge(df2, right_index=True)`.
+	* left vs inner join: `df1.join(df2)` does a left join by default (keeps all rows of `df1`), but `df.merge` does an inner join by default (returns only matching rows of `df1` and `df2`).
