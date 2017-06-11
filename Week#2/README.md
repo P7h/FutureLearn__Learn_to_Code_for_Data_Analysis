@@ -50,7 +50,8 @@ Find out how to use pandas to produce graphs.
 * `datetime(yyyy, mm, dd)` the function takes three arguments, `yyyy` a four digit integer representing a year, `mm` a two digit integer representing a month and `dd` a two digit integer representing a day. From these arguments the function creates and returns a value of `datetime64`.
 * `dropna()` when applied to a dataframe returns a new dataframe without the rows that have at least one missing value.
 * `head()` gets and displays the first five rows of a dataframe. Optionally the method can take an integer argument to specify how many rows (from and including row 0) to get and display.
-* `irow(index)` gets and displays the row in the dataframe indicated by argument `index`.
+* `tail()` gets and displays the last five rows of a dataframe. Optionally the method can take an integer argument to specify how many rows (until and including the last row) to get and display.
+* `irow(index)` [in the latest version: `iloc[index]`] gets and displays the row in the dataframe indicated by argument `index`.
 * `isnull()` is a series method that checks which rows in that series have a missing value.
 * `fillna(value)` is a series method that returns a new series in which all missing values have been filled with the given value.
 * `plot()` when applied to a dataframe column of numeric values, the method displays a graph of those values. The x-axis shows the dataframe’s index and the y-axis the range of the column’s values. Before the method is called you first need to execute `%matplotlib inline`.
@@ -58,6 +59,5 @@ Find out how to use pandas to produce graphs.
 * `read_csv(csvFile)` creates a dataframe from the dataset in the CSV file.
 * `rename(columns={oldName : newName})` renames the column `oldName` to `newName`.
 * `str.rstrip(suffix)` when applied to a dataframe column of string values, the method removes the argument `suffix` from the end of each string value in the column.
-* `tail()` gets and displays the last five rows of a dataframe. Optionally the method can take an integer argument to specify how many rows (until and including the last row) to get and display.
 * `to_datetime(aSeries)` when applied to a series, typically a column from a dataframe, this function returns a new series in which each value in `aSeries` has been changed to type `datetime64`.
 
