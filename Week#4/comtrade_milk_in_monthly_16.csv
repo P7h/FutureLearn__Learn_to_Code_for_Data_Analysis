@@ -1,0 +1,102 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,10000,,34272,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,180560,,140065,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,64,Bhutan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,15000,,21223,,,0
+HS,2016,201601,January 2016,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,10000,,34272,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,9100,,5473,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,608,Philippines,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,17833,,13444,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,634,Qatar,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2216,,2576,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,118578,,82960,,,0
+HS,2016,201601,January 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,17833,,14389,,,0
+HS,2016,201602,February 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1824,,6455,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,382871,,286677,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,38142,,30290,,,0
+HS,2016,201602,February 2016,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1824,,6455,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,22350,,16283,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,284414,,199800,,,0
+HS,2016,201602,February 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,37965,,40304,,,0
+HS,2016,201603,March 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,38154,,107227,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,307378,,248908,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,48,Bahrain,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2477,,2039,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,64,Bhutan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,10000,,15906,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,104,Myanmar,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,8039,,6601,,,0
+HS,2016,201603,March 2016,4,0,1,Imports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,36284,,101646,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,13375,,10891,,,0
+HS,2016,201603,March 2016,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1870,,5580,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,462,Maldives,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1200,,1055,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,10212,,9485,,,0
+HS,2016,201603,March 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,262075,,202931,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,350016,,256876,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,34427,,27440,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,480,Mauritius,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,480,,326,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,91040,,53188,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,608,Philippines,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,33932,,25384,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,158116,,113996,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,768,Togo,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,16099,,13885,,,0
+HS,2016,201604,April 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,15922,,22657,,,0
+HS,2016,201605,May 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,38130,,109307,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,777761,,458501,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,413,,587,,,0
+HS,2016,201605,May 2016,4,0,1,Imports,699,India,,208,Denmark,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,298,,641,,,0
+HS,2016,201605,May 2016,4,0,1,Imports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,34026,,97361,,,0
+HS,2016,201605,May 2016,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,3806,,11306,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,462,Maldives,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,48,,57,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,408210,,177349,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,608,Philippines,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,910,,1371,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,690,Seychelles,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1003,,1101,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,325735,,243062,,,0
+HS,2016,201605,May 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,41442,,34973,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,322680,,235309,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,13375,,10635,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,69060,,32222,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,224323,,170009,,,0
+HS,2016,201606,June 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,15922,,22444,,,0
+HS,2016,201607,July 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,20859,,66977,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,520923,,400640,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,64,Bhutan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,18120,,7892,,,0
+HS,2016,201607,July 2016,4,0,1,Imports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,6654,,20796,,,0
+HS,2016,201607,July 2016,4,0,1,Imports,699,India,,276,Germany,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,10000,,34651,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,57213,,43243,,,0
+HS,2016,201607,July 2016,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,4205,,11531,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,196845,,88717,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,172756,,122438,,,0
+HS,2016,201607,July 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,75989,,138350,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,469370,,225132,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,462,Maldives,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1800,,1581,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,389295,,164745,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,634,Qatar,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1140,,1336,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,77080,,57447,,,0
+HS,2016,201608,August 2016,4,0,2,Exports,699,India,,842,United States of America,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,55,,24,,,0
+HS,2016,201609,September 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,31689,,91528,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,401258,,215477,,,0
+HS,2016,201609,September 2016,4,0,1,Imports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,31689,,91528,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,295610,,133473,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,699,India,,608,Philippines,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,17400,,14256,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,53280,,34773,,,0
+HS,2016,201609,September 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,34968,,32975,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,,,408903,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,64,Bhutan,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,43061,,133337,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,,,1,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,38142,,28905,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,79579,,38189,,,0
+HS,2016,201610,October 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,278574,,208471,,,0
+HS,2016,201611,November 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,13292,,38039,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,322145,,301489,,,0
+HS,2016,201611,November 2016,4,0,1,Imports,699,India,,251,France,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,13292,,38039,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,19071,,14253,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,458,Malaysia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,19071,,15019,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,462,Maldives,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,360,,366,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,35060,,41096,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,608,Philippines,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,20900,,16698,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,634,Qatar,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2097,,2181,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,176355,,129124,,,0
+HS,2016,201611,November 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,49231,,82751,,,0
+HS,2016,201612,December 2016,4,0,1,Imports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2004,,5694,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,0,World,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,186440,,147782,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,32242,,25857,,,0
+HS,2016,201612,December 2016,4,0,1,Imports,699,India,,381,Italy,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2004,,5694,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,462,Maldives,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,1200,,1089,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,524,Nepal,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,2338,,7202,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,3240,,8589,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,702,Singapore,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,129720,,94431,,,0
+HS,2016,201612,December 2016,4,0,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,0401,Milk and cream; not concentrated nor containing added sugar or other sweetening matter,0,,,,,,17700,,10614,,,0
