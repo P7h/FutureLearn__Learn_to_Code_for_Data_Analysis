@@ -17,16 +17,33 @@ There are quizzes on every important topic, and also a decent number of hands-on
 * Data analysis: using pandas to read CSV and Excel files, to clean, filter, partition, aggregate and summarise data, and to produce simple charts
 
 
-## Notes
-- [x]  1. Week 1: "Having a go at it"
-- [x]  2. Week 2: "Cleaning up our act"
-- [x]  3. Week 3: "Combine and Transform Data"
-- [x]  4. Week 4: "Further Techniques"
+## Notebooks
+- [x]  1. [Week 1: "Having a go at it"](https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis/tree/master/Week%231/)
+- [x]  2. [Week 2: "Cleaning up our act"](https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis/tree/master/Week%232/)
+- [x]  3. [Week 3: "Combine and Transform Data"](https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis/tree/master/Week%233/)
+- [x]  4. [Week 4: "Further Techniques"](https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis/tree/master/Week%234/)
+
+
+## Jupyter notebooks online viewer
+All the Jupyter notebooks of this repo can be browsed online either here with GitHub or with *nbviewer* app of _jupyter.org_.
+[https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis](https://nbviewer.jupyter.org/github/P7h/FutureLearn__Learn_to_Code_for_Data_Analysis)
+
+Notebooks render beautifully on *nbviewer* and shows the output cells as well as options for downloading the corresponding notebook, etc.
 
 
 ## Course URL
 This course was run on FutureLearn by Michel Wermelinger, Rob Griffiths & Tony Hirst of The Open University (OU).
 [https://www.futurelearn.com/courses/learn-to-code](https://www.futurelearn.com/courses/learn-to-code)
+
+
+## Local env
+In case you do not have the modules used in the notebook or jupyter installed, simply type the following on the terminal.
+
+	pip install -r reqs.txt
+
+Then run the notebook from terminal using the below command.
+
+	jupyter notebook
 
 
 ## License
