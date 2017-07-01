@@ -36,7 +36,7 @@ This course was run on FutureLearn by Michel Wermelinger, Rob Griffiths & Tony H
 [https://www.futurelearn.com/courses/learn-to-code](https://www.futurelearn.com/courses/learn-to-code)
 
 
-## Local env
+## Local env setup
 In case you do not have the modules used in the notebook or jupyter installed, simply type the following on the terminal.
 
 	pip install -r reqs.txt
@@ -44,6 +44,19 @@ In case you do not have the modules used in the notebook or jupyter installed, s
 Then run the notebook from terminal using the below command.
 
 	jupyter notebook
+
+
+### Jupyter Notebook Extensions
+Please also install [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions), a collection of extensions that add functionality to the Jupyter notebook.
+
+	conda install -c conda-forge jupyter_contrib_nbextensions
+
+Or if you are using `pip`:
+
+	pip install jupyter_contrib_nbextensions
+
+
+And then follow the steps mentioned in the instructions [here](https://github.com/ipython-contrib/jupyter_contrib_nbextensions#installation).
 
 
 ## License
